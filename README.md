@@ -5,4 +5,4 @@
 3) <a target="_blank" href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">Download and install .NET Framework</a>
 4) <a target="_blank" href="https://www.sordum.org/downloads/?st-defender-control">Turn off Windows Defender</a> (pass rar: sordum)
 4) <a target="_blank" href="https://www.sordum.org/files/downloads.php?st-windows-update-blocker">Turn off Windows Update</a>
-5) <a target="_blank" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.2-windows-x64-installer">Download and install Desktop Runtime</a>
+5) <a target="_blank" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.2-windows-x64-installer">Download and install .NET Desktop Runtime</a>
